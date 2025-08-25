@@ -1,4 +1,3 @@
-
 import'package:flutter/material.dart';
 
 
@@ -11,10 +10,10 @@ return Container(
   decoration: const BoxDecoration(
     gradient: LinearGradient(
       colors: [
-Color.fromARGB(255, 135, 222, 195),
-Color.fromARGB(197, 89, 210, 210),
-Color.fromARGB(108, 59, 156, 175),
-Color.fromARGB(65, 11, 123, 110),
+Color.fromARGB(255, 174, 148, 255),
+Color.fromARGB(200, 120, 102, 255),
+Color.fromARGB(150, 88, 74, 180),
+Color.fromARGB(100, 40, 30, 120),
 
 
 
@@ -54,21 +53,3 @@ child: const Center(child: Text('Hi',style: TextStyle(
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
